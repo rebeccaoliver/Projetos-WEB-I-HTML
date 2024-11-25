@@ -19,4 +19,4 @@ As atividades a seguir abordam o básico do HTML:
 
 | **Name**           | **GitHub Profile**                                    |
 |--------------------|-------------------------------------------------------|
-| Maxwell Maciel   | [maxwelmaciel](https://github.com/MaxwellMaciel)    |
+| Maxwell Maciel   | [maxwellmaciel](https://github.com/MaxwellMaciel)    |
